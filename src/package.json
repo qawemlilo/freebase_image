@@ -1,0 +1,10 @@
+{
+  "name": "freebase_image",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Freebase database docker instance",
+  "author": "Simon bishop",
+  "dependencies": {
+    "freebase": "git+https://github.com/southbite/freebase.git"
+  }
+}
